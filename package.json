@@ -1,0 +1,32 @@
+{
+  "name": "helloworld-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvegliante/helloworld-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pvegliante/helloworld-node/issues"
+  },
+  "homepage": "https://github.com/pvegliante/helloworld-node#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.17.0",
+    "express": "^4.15.0",
+    "mysql": "^2.13.0",
+    "nodemon": "^1.11.0",
+    "parser": "^0.1.4"
+  },
+  "devDependencies": {},
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [],
+  "description": ""
+}
